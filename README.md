@@ -1,7 +1,7 @@
 # Mysql_Function
 
 
-##Functions Created
+## Functions Created
 1. Calculate Employee's Age
 
 2. Calculate Years of Service
